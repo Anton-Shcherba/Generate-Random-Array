@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio files
+.vs/*
+x64/*
+enc_temp_folder/*
+*.sln
+*.vcxproj
+*.filters
+*.user
